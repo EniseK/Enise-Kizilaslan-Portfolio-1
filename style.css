@@ -103,6 +103,34 @@ img[alt="homestore"] {
 	height: 600px;
 }
 
+nav {
+	padding: 20px 0;
+}
+nav a {
+	text-decoration: none;
+	color: #272142;
+	transition: all 100ms ease-in-out;
+}
+
+nav a:hover,
+nav li.active a {
+	color: var(--branding-color);
+}
+
+nav li {
+	display: inline;
+	line-height: 42px;
+	margin-left: 15px;
+}
+
+nav ul {
+	padding: 0;
+}
+
+.logo {
+	max-height: 40px;
+}
+
 @media (max-width: 900px) {
 	h1 {
 		font-size: 50px;
@@ -123,5 +151,9 @@ img[alt="homestore"] {
 	.content-container {
 		text-align: center;
 		padding: 0;
+	}
+
+	nav a {
+		font-size: 12px;
 	}
 }
