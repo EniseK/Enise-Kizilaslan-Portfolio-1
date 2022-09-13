@@ -107,6 +107,11 @@ img[alt="homestore"] {
 	height: 600px;
 }
 
+img[alt="translation"] {
+	border-radius: 2px;
+	height: 600px;
+}
+
 nav {
 	padding: 20px 0;
 }
