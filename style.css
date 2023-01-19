@@ -107,6 +107,24 @@ img[alt="homestore"] {
 	height: 600px;
 }
 
+img[alt="travel"] {
+	size: 400px;
+	margin: 3px;
+	padding: 85px 15px 85px;
+	background: #f9f7fe;
+	border-radius: 4px;
+	height: 600px;
+}
+
+img[alt="worldclock"] {
+	size: 400px;
+	margin: 3px;
+	padding: 85px 15px 85px;
+	background: #f9f7fe;
+	border-radius: 4px;
+	height: 600px;
+}
+
 img[alt="translation"] {
 	border-radius: 2px;
 	height: 600px;
