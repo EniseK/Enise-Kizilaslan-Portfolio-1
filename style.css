@@ -126,7 +126,11 @@ img[alt="worldclock"] {
 }
 
 img[alt="translation"] {
-	border-radius: 2px;
+	size: 400px;
+	margin: 3px;
+	padding: 85px 15px 85px;
+	background: #f9f7fe;
+	border-radius: 4px;
 	height: 600px;
 }
 
