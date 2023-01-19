@@ -99,7 +99,8 @@ p {
 }
 
 img[alt="enisephoto"] {
-	size: 100px;
+	display: inline;
+	size: 30px;
 	margin: 3px;
 	padding: 28px 5px 28px;
 	
