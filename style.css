@@ -98,6 +98,16 @@ p {
 	padding: 120px 60px 0;
 }
 
+img[alt="enisephoto"] {
+	size: 100px;
+	margin: 3px;
+	padding: 28px 5px 28px;
+	
+	border-radius: 4px;
+	
+}
+
+
 img[alt="homestore"] {
 	size: 400px;
 	margin: 3px;
