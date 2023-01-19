@@ -81,6 +81,10 @@ p {
 	font-family: var(--default-font-family);
 }
 
+.content img {
+	text-align: center;
+	display: block;}
+	
 .btn-branding {
 	background: var(--branding-color);
 	border-radius: 4px;
