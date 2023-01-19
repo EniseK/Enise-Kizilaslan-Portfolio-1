@@ -110,6 +110,14 @@ img[alt="EnisePhoto"] {
 	box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
+img[alt="EniseA"] {
+	height 440px;
+	width: 450px;
+	margin: 20px 20px 20px 60px;	
+	border-radius: 2px;
+	box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
 
 
 img[alt="homestore"] {
