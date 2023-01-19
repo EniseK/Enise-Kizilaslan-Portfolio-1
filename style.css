@@ -35,7 +35,7 @@ p {
 }
 
 .hero {
-	max-width:1200px;
+	
 	display:block;
 	
 	background: var(--secondary-color);
