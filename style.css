@@ -37,7 +37,7 @@ p {
 .hero {
 	max-width:1200px;
 	display:block;
-	margin: auto 0;
+	
 	background: var(--secondary-color);
 	text-align: center;
 	padding: 80px 20px;
