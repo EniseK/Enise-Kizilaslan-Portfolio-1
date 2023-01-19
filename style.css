@@ -98,12 +98,11 @@ p {
 	padding: 120px 60px 0;
 }
 img[alt="EnisePhoto"] {
-	height 150px;
-	width: 140px;
-	margin: 20px 100px;
-	
-	
+	height 180px;
+	width: 180px;
+	margin: 20px 80px;	
 	border-radius: 100px;
+	box-shadow: 5px 3px 5px;
 	
 }
 
