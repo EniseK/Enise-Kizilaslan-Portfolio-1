@@ -97,7 +97,15 @@ p {
 .project-description {
 	padding: 120px 60px 0;
 }
-
+img[alt="EnisePhoto"] {
+	height 150px;
+	width: 140px;
+	margin: 20px 100px;
+	
+	
+	border-radius: 100px;
+	
+}
 
 
 
